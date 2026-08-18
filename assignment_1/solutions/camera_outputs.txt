@@ -1,0 +1,4 @@
+VIDEO INFORMATION: 
+Height: 480
+Width: 640
+fps: 30
